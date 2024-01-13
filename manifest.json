@@ -5,8 +5,8 @@
     "manifest_version": 3,
     "action": {
         "default_icon": {
-            "16": "/img/extension.png",
-            "32": "/img/extension32.png"
+            "16": "/img/icon16.png",
+            "32": "/img/icon32.png"
         },
         "default_title": "Click to view a popup",
         "default_popup": "popup.html"
@@ -26,7 +26,9 @@
         }
     ],
     "icons": {
-        "48": "/img/extension48.png",
-        "128": "/img/extension128.png"
+        "16": "/img/icon16.png",
+        "32": "/img/icon32.png",
+        "48": "/img/icon48.png",
+        "128": "/img/icon128.png"
     }
 }
